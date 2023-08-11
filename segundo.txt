@@ -1,1 +1,2 @@
 Soy un segundo archivo creado con echo
+Este es un nuevo cambio para poder comparar en diff

@@ -1,1 +1,2 @@
 Hola soy un archivo con una oración creada por el comando echo
+Soy una línea que se editó desde un editor de text
